@@ -1,4 +1,4 @@
-# FORK Celestia(tia) 公链铭文 cias mint 脚本
+# FORK Celestia(tia) 公链铭文 cias mint 脚本.
 
 ## 代码参考 [qzz0518/coss](https://github.com/qzz0518/coss)
 
